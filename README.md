@@ -17,12 +17,7 @@
   <p align="center">
     “Before TaiSight, it was like ‘I had eyes but couldn’t see Mt. Tai.’ Now we never miss a page.”  
     <br />
-    <br /><!--
-    <a href="#getting-started"><strong>Getting Started</strong></a>  
-    &nbsp;·&nbsp;
-    <a href="#usage">Usage</a>  
-    &nbsp;·&nbsp;
-    <a href="#contact">Contact</a> -->
+    <br />
   </p>
 </div>
 
