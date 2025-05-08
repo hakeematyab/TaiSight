@@ -9,7 +9,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/hakeematyab/TaiSight">
-    <img src="https://github.com/user-attachments/assets/49f3c428-dd6f-4af2-8859-7c02ab1dc477" alt="TaiSight Logo" width="400" height="400">
+    <img src="https://github.com/user-attachments/assets/49f3c428-dd6f-4af2-8859-7c02ab1dc477" alt="TaiSight Logo" width="300" height="300">
   </a>
 
   <h3 align="center">🏔️ TaiSight: Never Miss a Page</h3>
