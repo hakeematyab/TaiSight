@@ -1,15 +1,15 @@
 <a id="readme-top"></a>
 
-[![Contributors][contributors-shield]][contributors-url]  
-[![Forks][forks-shield]][forks-url]  
-[![Stargazers][stars-shield]][stars-url]  
-[![Issues][issues-shield]][issues-url]  
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
 
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/hakeematyab/TaiSight">
-    <img src="assets/TaiSight.png" alt="TaiSight Logo" width="200" height="200">
+    <img src="https://github.com/user-attachments/assets/49f3c428-dd6f-4af2-8859-7c02ab1dc477" alt="TaiSight Logo" width="400" height="400">
   </a>
 
   <h3 align="center">🏔️ TaiSight: Never Miss a Page</h3>
@@ -51,15 +51,17 @@
   Raw image embeddings for print and handwriting—no OCR, no parsing.
 - **🤖 Multi‑Stage Reasoning**  
   Coarse‑to‑fine retrieval, graph‑based agents, and confidence gating.
+<!--
 - **☁️ Cloud ↔ Edge Ready**  
-  Containerized microservices on GCP/AWS & quantized Vision‑LMs for on‑device inference.
+  Containerized microservices on GCP/AWS & quantized Vision‑LMs for on‑device inference.-->
 - **🔍 Transparent AI**  
   Attention heatmaps, retrieval trace logs, and explainable QA workflows.
 
 ### 🌟 Key Benefits
 - **🎯 Never Miss a Detail**: Handwritten or printed, every page is fully “seen.”  
-- **✅ Accurate Answers**: State‑of‑the‑art vision‑LMs + retrieval + generation.  
-- **⚙️ Flexible Deployment**: Deploy on cloud servers or edge devices with the same pipeline.  
+- **✅ Accurate Answers**: State‑of‑the‑art vision‑LMs + retrieval + generation.
+<!--
+- **⚙️ Flexible Deployment**: Deploy on cloud servers or edge devices with the same pipeline.  -->
 - **🔎 Explainable Workflows**: Visualize exactly what the model attended to and why.  
 
 <!-- GETTING STARTED -->
